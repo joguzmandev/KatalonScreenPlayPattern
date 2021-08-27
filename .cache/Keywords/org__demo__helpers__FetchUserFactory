@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "283CAD5B958BFBCC4399C33613074D5C",
+  "keywordClasses": [
+    {
+      "name": "org.demo.helpers.FetchUserFactory",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

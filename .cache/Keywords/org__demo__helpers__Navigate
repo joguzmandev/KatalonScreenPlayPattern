@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5D7157E4990E7F5A0A70C6FDD32DE615",
+  "keywordClasses": [
+    {
+      "name": "org.demo.helpers.Navigate",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F14AF687B872D4A9EFBD80C949D40BCA",
+  "keywordClasses": [
+    {
+      "name": "org.demo.helpers.NavigateTo",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

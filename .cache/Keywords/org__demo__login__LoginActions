@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E9C63C9431274A70C8624B8664405362",
+  "keywordClasses": [
+    {
+      "name": "org.demo.login.LoginActions",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
